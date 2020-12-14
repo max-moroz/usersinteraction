@@ -1,0 +1,14 @@
+[
+  {
+    "id": 100,
+    "name": "John",
+    "lastName": "Smith",
+    "password": "$2a$04$SSD.NaHOxLnOccmj2lnfR.AZ4nojw/i4iHuH3gDeYR/YAvdsuPP/m"
+  },
+  {
+    "id": 101,
+    "name": "Max123",
+    "lastName": "Max",
+    "password": "$2a$04$vc7bODyS9.ECNFCgSRUf9ebq3STrHAFEYonAH/oUJmuAaJ/rpHD0e"
+  }
+]
